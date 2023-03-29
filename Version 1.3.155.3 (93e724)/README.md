@@ -6,9 +6,13 @@
 - [Backup Managed sem Cheat](https://github.com/Winzen/ChildrenOfMorta-Cheats-Reverse-Engineer-Unity-/releases/download/ChildenofMorta/Backup.Managed.rar)
 - [Managed com MaxLevel Cheat](https://github.com/Winzen/ChildrenOfMorta-Cheats-Reverse-Engineer-Unity-/releases/download/ChildenofMorta/MaxLevel.Cheat.rar)
 # Cheats Disponiveis
-- ## Max Level Cheat
+## Lista
+- [Max Level Cheat](#max-level-cheat)
+- [Bonus Gold](#bonus-gold)
+- [Reset Skill Tree](#reset-skill-tree)
+- ### Max Level Cheat
   https://user-images.githubusercontent.com/94500122/228682085-6d5384ab-4ce9-4d82-8a42-6c58c2c77015.mp4
-- Bonus Gold
+- ### Bonus Gold
 
-- Reset Skill Tree
+- ### Reset Skill Tree
 
