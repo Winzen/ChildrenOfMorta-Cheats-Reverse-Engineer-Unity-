@@ -12,6 +12,8 @@
 - [Reset Skill Tree](#reset-skill-tree)
 - ### Max Level Cheat
   https://user-images.githubusercontent.com/94500122/228682085-6d5384ab-4ce9-4d82-8a42-6c58c2c77015.mp4
+  #### Descrição
+  🇧🇷 Permite que você upe para o level maximo do personagem assim que afetuar um abate.
 - ### Bonus Gold
 
 - ### Reset Skill Tree
