@@ -1,3 +1,4 @@
+<img src="https://1.bp.blogspot.com/-ahNjKJJXuU8/XeBTbRtno6I/AAAAAAAABco/A7KmN_lQneon7J0M-ovFlkBrd5-fUqQUQCNcBGAsYHQ/s1600/H2x1_NSwitch_ChildrenOfMorta_image1600w.jpg">
 
 # Descrição
  :brazil:Cheats para Children Of Morta.
